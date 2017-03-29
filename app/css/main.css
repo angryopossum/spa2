@@ -1,0 +1,9 @@
+body {
+  font-size: 22px; }
+
+body {
+  background: #ccc;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex; }
