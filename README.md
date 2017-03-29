@@ -2,5 +2,12 @@
 
 Single Page Application with Firebase backend
 
-gulp build
-gulp watch
+1. Build application:
+
+        $gulp build
+
+2. Watch application:
+
+        $ gulp watch
+
+
